@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+.inputt {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    color: white;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(40, 28, 207);
+    border-radius: 20px;
+    height: fit-content;
+}
+
+input,
+select {
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    height: 25px;
+}
+
+button {
+    font-size: 16px;
+    background-color: rgb(167, 32, 110);
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.disbled {
+    background-color: gray;
+    color: white;
+}

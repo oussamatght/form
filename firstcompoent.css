@@ -1,0 +1,21 @@
+#content-model {
+    background: rgba(9, 9, 9, 0.621);
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#content {
+    background-color: white;
+    color: green;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.deleted {
+    display: none;
+}
