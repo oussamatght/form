@@ -1,6 +1,7 @@
 # 💰 Modern Loan Request Form
 
-A professional and modern **React + CSS** loan application form.
+A SImple  and modern **React + CSS** loan application form .
+
 
 ### 🚀 Features
 - Dynamic progress bar  
