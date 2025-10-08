@@ -6,12 +6,13 @@
   "engines": {
     "node": "20.x"
   },
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "start": "vite preview --port $PORT --host 0.0.0.0"
-  },
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "start": "vite preview --port $PORT --host 0.0.0.0"
+}
+,
   "dependencies": {
     "@tailwindcss/vite": "^4.1.8",
     "framer-motion": "^12.23.22",
