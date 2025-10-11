@@ -2,7 +2,7 @@
 
 A SImple  and modern **React + CSS** loan application form .
 
-the host "https://formmm-sqzj.onrender.com/"
+the host "https://form-silk-rho.vercel.app/"
 ### 🚀 Features
 - Dynamic progress bar  
 - Country code selector for phone numbers  
