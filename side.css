@@ -167,7 +167,6 @@ button:hover {
     background-color: #3a56a5;
     transform: translateY(-2px);
 }
-
 button.disabled,
 button:disabled {
     background-color: #aaa;
