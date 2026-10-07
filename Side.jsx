@@ -193,7 +193,7 @@ export default function Side() {
               )}
             </div>
 
-            {/* Age */}
+    
             <div className="field">
               <label htmlFor="age">
                 Age <span>*</span>
@@ -277,7 +277,7 @@ export default function Side() {
             </div>
           </section>
 
-          {/* Loan Details */}
+    
           <section className="form-section">
             <div className="section-heading">
               <div className="section-number">03</div>
